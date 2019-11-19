@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 19 20:19:43 2019
-
-@author: momiz
-"""
 
 txtPath = "./txt/test.txt"
 outPath = "./txt/Otest.txt"
